@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-19T20:59:39Z" name="Default suite" finished-at="2023-04-19T21:00:27Z" duration-ms="48650">
+    <groups>
+    </groups>
+    <test started-at="2023-04-19T20:59:39Z" name="Default test" finished-at="2023-04-19T21:00:27Z" duration-ms="48650">
+      <class name="practiceLog4j.BrokenLInks">
+        <test-method signature="links()[pri:0, instance:practiceLog4j.BrokenLInks@3148f668]" started-at="2023-04-19T20:59:39Z" name="links" finished-at="2023-04-19T21:00:27Z" duration-ms="48632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- links -->
+      </class> <!-- practiceLog4j.BrokenLInks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

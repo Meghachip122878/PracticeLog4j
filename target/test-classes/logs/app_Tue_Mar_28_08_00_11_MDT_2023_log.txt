@@ -1,0 +1,2 @@
+INFO    2023-03-28 08:00:11,266 [main] practiceLog4j.TestLogs  - This is a information log
+ERROR   2023-03-28 08:00:11,266 [main] practiceLog4j.TestLogs  - This is an error log

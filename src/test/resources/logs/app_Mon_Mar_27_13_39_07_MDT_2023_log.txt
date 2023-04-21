@@ -1,0 +1,4 @@
+INFO    2023-03-27 13:39:07,715 [main] practiceLog4j.TestLogs  - This is a information log
+ERROR   2023-03-27 13:39:07,716 [main] practiceLog4j.TestLogs  - This is an error log
+INFO    2023-03-27 13:39:07,719 [main] practiceLog4j.TestLogs  - login failed
+ERROR   2023-03-27 13:39:07,719 [main] practiceLog4j.TestLogs  - login unsuccessful

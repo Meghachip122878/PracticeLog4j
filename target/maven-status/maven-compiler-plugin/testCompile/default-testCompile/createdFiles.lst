@@ -1,0 +1,10 @@
+utilities\MonitoringMail$SMTPAuthenticator.class
+utilities\MonitoringMail.class
+listeners\CustomListeners.class
+practiceLog4j\TestMail.class
+utilities\MonitoringMail$1.class
+practiceLog4j\TestLogs.class
+practiceLog4j\doLogin.class
+practiceLog4j\BrokenLInks.class
+utilities\TestConfig.class
+utilities\TestUtil.class
